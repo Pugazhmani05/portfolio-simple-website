@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+.section-one
+{
+background-color: black;
+color: aliceblue;
+} 
+.section-one__ep2{
+color: blueviolet;
+}
+.section-three{
+    background-color: aqua;
+    display: inline-block;
+    border-radius: 10px;
+    height: 200px;
+    vertical-align: top;
+}
+.section-four{
+    background-color: olivedrab;
+    display: inline-block;
+    border-radius: 10px;
+    height: 200PX;
+}
+.section-five{
+    background-color: black;
+color: aliceblue;
+} 
+.section-five__ep2{
+    text-decoration: none;
+    background-color:orange;
+}
